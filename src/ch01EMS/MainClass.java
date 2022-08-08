@@ -8,6 +8,8 @@ public class MainClass {
 		Scenario1 objScenario1 = new Scenario1();
 		objScenario1.howManyMaleAndFemaleEmployees();
 		
-		
+		////Print the name of all departments in the organization
+		Scenario2 objScenario2 = new Scenario2();
+		objScenario2.printAllDepartmentNames();
 	}
 }
